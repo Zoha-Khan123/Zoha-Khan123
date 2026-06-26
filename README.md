@@ -51,46 +51,6 @@ I’m a passionate **MERN Stack Developer** with expertise in building modern, s
 
 ---
 
-## 💼 Featured Projects
-
-### 🔹 E-Commerce Platform
-A full-featured e-commerce web application built with the MERN stack
-- **Tech Stack:** MongoDB, Express.js, React, Node.js
-- **Features:** User authentication, Product catalog, Shopping cart, Payment integration, Admin dashboard
-- **Highlights:** RESTful API, JWT authentication, Responsive design
-
-### 🔹 Task Management System
-A collaborative task management application for teams
-- **Tech Stack:** MERN Stack + Redux
-- **Features:** Real-time updates, Task assignment, Priority management, Team collaboration
-- **Highlights:** State management with Redux, Real-time notifications
-
-### 🔹 Social Media Dashboard
-A comprehensive social media analytics and management platform
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Features:** Data visualization, Post scheduling, Analytics, User management
-- **Highlights:** Chart.js integration, Responsive UI, RESTful APIs
-
-### 🔹 Blog Platform
-A modern blogging platform with rich text editing capabilities
-- **Tech Stack:** MERN Stack + Material-UI
-- **Features:** Rich text editor, Comment system, User profiles, Search functionality
-- **Highlights:** Clean UI/UX, SEO optimized, Image upload
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zoha-Khan123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoha-Khan123&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoha-Khan123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
----
 
 
 ## 🎯 What I’m Currently Working On
@@ -105,18 +65,93 @@ A modern blogging platform with rich text editing capabilities
 
 ## 💡 Skills & Expertise
 
-```javascript
-const zohaKhan = {
-    code: ["JavaScript", "TypeScript", "C++", "Python", "HTML5", "CSS3"],
-    frontend: ["React", "Redux", "Next.js", "Material-UI", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "REST API", "JWT"],
-    database: ["MongoDB", "Mongoose"],
-    tools: ["Git", "GitHub", "VS Code", "Postman", "npm", "Vercel"],
-    architecture: ["SPA", "MVC", "RESTful API"],
-    currentFocus: "Building scalable and performant web applications",
-    funFact: "I debug with console.log() and I’m not ashamed! 😄"
-};
-```
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🎨 Frontend Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=rest&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+### 🔧 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 📚 Other Skills
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=flat-square&logo=databricks&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4285F4?style=flat-square&logo=thealgorithms&logoColor=white)
+
+**Architecture Patterns**
+- Single Page Applications (SPA)
+- Model-View-Controller (MVC)
+- Component-based Design
+- RESTful Architecture
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+**🎯 Current Focus:** Building scalable and performant web applications using modern technologies
+
+**💡 Fun Fact:** I debug with console.log() and I’m not ashamed! 😄
+
+</div>
+
+---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zoha-Khan123&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoha-Khan123&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoha-Khan123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+</div>
 
 ---
 
